@@ -1,0 +1,16 @@
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\bin\Debug\net8.0-windows\Practica 5.exe
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\bin\Debug\net8.0-windows\Practica 5.deps.json
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\bin\Debug\net8.0-windows\Practica 5.runtimeconfig.json
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\bin\Debug\net8.0-windows\Practica 5.dll
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\bin\Debug\net8.0-windows\Practica 5.pdb
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\obj\Debug\net8.0-windows\Practica_5.Form1.resources
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\obj\Debug\net8.0-windows\Practica 5.csproj.GenerateResource.cache
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\obj\Debug\net8.0-windows\Practica 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\obj\Debug\net8.0-windows\Practica 5.AssemblyInfoInputs.cache
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\obj\Debug\net8.0-windows\Practica 5.AssemblyInfo.cs
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\obj\Debug\net8.0-windows\Practica 5.csproj.CoreCompileInputs.cache
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\obj\Debug\net8.0-windows\Practica 5.dll
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\obj\Debug\net8.0-windows\refint\Practica 5.dll
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\obj\Debug\net8.0-windows\Practica 5.pdb
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\obj\Debug\net8.0-windows\Practica 5.genruntimeconfig.cache
+D:\Unidad 3, Practica 2\Practica 5\Practica 5\obj\Debug\net8.0-windows\ref\Practica 5.dll
