@@ -1,0 +1,16 @@
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\bin\Debug\net8.0-windows\Practica 7.exe
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\bin\Debug\net8.0-windows\Practica 7.deps.json
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\bin\Debug\net8.0-windows\Practica 7.runtimeconfig.json
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\bin\Debug\net8.0-windows\Practica 7.dll
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\bin\Debug\net8.0-windows\Practica 7.pdb
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\obj\Debug\net8.0-windows\Practica_7.Form1.resources
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\obj\Debug\net8.0-windows\Practica 7.csproj.GenerateResource.cache
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\obj\Debug\net8.0-windows\Practica 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\obj\Debug\net8.0-windows\Practica 7.AssemblyInfoInputs.cache
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\obj\Debug\net8.0-windows\Practica 7.AssemblyInfo.cs
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\obj\Debug\net8.0-windows\Practica 7.csproj.CoreCompileInputs.cache
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\obj\Debug\net8.0-windows\Practica 7.dll
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\obj\Debug\net8.0-windows\refint\Practica 7.dll
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\obj\Debug\net8.0-windows\Practica 7.pdb
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\obj\Debug\net8.0-windows\Practica 7.genruntimeconfig.cache
+D:\Unidad 3, Practica 2\Practica 7\Practica 7\obj\Debug\net8.0-windows\ref\Practica 7.dll
